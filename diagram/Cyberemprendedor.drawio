@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T12:32:13.751Z" agent="5.0 (X11; Ubuntu)" etag="5TYukVHXJpXHzoibLSeP" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:36:03.191Z" agent="5.0 (X11; Ubuntu)" etag="qx6PYSC2RybYGwYDAjVu" version="20.8.5" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2902" dy="1709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="1296" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="1xJKque4gwnT1mqs9br3-14" value="KYC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/identification-card-128.png;strokeColor=#CCCCCC;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=15;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="76" y="89" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pWdg90kbXN8Ci7GVcK-E-18" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; style=&quot;font-size: 15px;&quot; face=&quot;Lato&quot; color=&quot;#FF0000&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;-1%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="-4.5" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Lato;fontSize=20;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="77e6c97f196da883-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -96,21 +99,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1xJKque4gwnT1mqs9br3-19" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Billetera&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Spot&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;(BTC, USDT, BUSD, ++)&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Lato;verticalAlign=top;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="77e6c97f196da883-4" vertex="1">
-          <mxGeometry x="43.5" y="242" width="120" height="111.61" as="geometry" />
+          <mxGeometry x="44.75" y="293" width="120" height="111.61" as="geometry" />
         </mxCell>
         <mxCell id="pWdg90kbXN8Ci7GVcK-E-1" value="&lt;div&gt;Vender&lt;/div&gt;&lt;div&gt;(Sell)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Lato;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="43.5" y="459.41499999999996" width="120" height="60" as="geometry" />
+          <mxGeometry x="44.75" y="510.41499999999996" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWdg90kbXN8Ci7GVcK-E-5" value="Cuenta de 3ro" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Lato;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="36.5" y="652.615" width="120" height="60" as="geometry" />
+          <mxGeometry x="37.75" y="703.615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pWdg90kbXN8Ci7GVcK-E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="77e6c97f196da883-4" source="1xJKque4gwnT1mqs9br3-19" target="pWdg90kbXN8Ci7GVcK-E-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="73" y="381" />
-              <mxPoint x="27" y="381" />
-              <mxPoint x="27" y="548" />
-              <mxPoint x="97" y="548" />
+              <mxPoint x="75.25" y="432" />
+              <mxPoint x="35.25" y="432" />
+              <mxPoint x="35.25" y="599" />
+              <mxPoint x="98.25" y="599" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,6 +121,9 @@
           <mxGeometry x="0.602" y="-5" relative="1" as="geometry">
             <mxPoint y="24" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pWdg90kbXN8Ci7GVcK-E-19" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; style=&quot;font-size: 15px;&quot; face=&quot;Lato&quot; color=&quot;#FF0000&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;-2%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="94" y="246" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="&lt;div&gt;Kucoin&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=68;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fillColor=#ffcc99;strokeColor=#CCCCCC;autosize=1;verticalAlign=middle;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="773" y="48" width="200" height="1101" as="geometry" />
@@ -137,7 +143,7 @@
         </mxCell>
         <mxCell id="1xJKque4gwnT1mqs9br3-21" value="&lt;div&gt;Comprar&lt;/div&gt;&lt;div&gt;(Buy with USD)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Lato;" parent="1xJKque4gwnT1mqs9br3-20" vertex="1" connectable="0">
           <mxGeometry x="0.8988" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-3" as="offset" />
+            <mxPoint x="-2" y="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="&lt;div&gt;Moneda&lt;/div&gt;&lt;div&gt;Interior&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=68;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fillColor=#cce5ff;strokeColor=#CCCCCC;autosize=1;verticalAlign=middle;" parent="77e6c97f196da883-1" vertex="1">
