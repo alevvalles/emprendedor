@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T12:38:53.053Z" agent="5.0 (X11; Ubuntu)" etag="xy8_yR-aigeD9VmmheZw" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:39:57.830Z" agent="5.0 (X11; Ubuntu)" etag="roZTAG5NzXny6nz3Wi5n" version="20.8.5" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1985" dy="1296" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3429" dy="1947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,28 @@
         </mxCell>
         <mxCell id="pWdg90kbXN8Ci7GVcK-E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="77e6c97f196da883-1" source="pWdg90kbXN8Ci7GVcK-E-5" target="pWdg90kbXN8Ci7GVcK-E-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pWdg90kbXN8Ci7GVcK-E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=18;fontColor=#FF0000;" edge="1" parent="77e6c97f196da883-1" source="pWdg90kbXN8Ci7GVcK-E-20" target="pWdg90kbXN8Ci7GVcK-E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pWdg90kbXN8Ci7GVcK-E-23" value="ATM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Lato;fontColor=default;" vertex="1" connectable="0" parent="pWdg90kbXN8Ci7GVcK-E-22">
+          <mxGeometry x="0.4505" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWdg90kbXN8Ci7GVcK-E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=18;fontColor=default;" edge="1" parent="77e6c97f196da883-1" source="pWdg90kbXN8Ci7GVcK-E-1" target="pWdg90kbXN8Ci7GVcK-E-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="872" y="588" />
+              <mxPoint x="872" y="161" />
+              <mxPoint x="1066" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWdg90kbXN8Ci7GVcK-E-25" value="Transferencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Lato;fontColor=default;" vertex="1" connectable="0" parent="pWdg90kbXN8Ci7GVcK-E-24">
+          <mxGeometry x="0.8631" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
