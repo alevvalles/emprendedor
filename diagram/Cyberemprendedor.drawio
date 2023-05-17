@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-05-15T12:27:30.009Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="OlXX1EXEkuSQCYe3cFhC" version="21.2.8" type="device">
+<mxfile host="Electron" modified="2023-05-17T19:41:05.262Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="nnH2mI26h1H5K_kwsXqy" version="21.2.8" type="device">
   <diagram id="930yrrSZ7CRRkxsYf17R" name="Main">
-    <mxGraphModel dx="4097" dy="2551" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="893" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="oXg08h0DtL2RBj69b0VJ-4" value="Ayudas" style="" parent="0" visible="0" />
@@ -509,7 +509,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D12ZRFP_QPjPrEDqh1_J-1" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Lato; font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; color=&quot;#FF0000&quot;&gt;-&amp;nbsp;1 USD&lt;br&gt;(~MEP)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="_Wc2LpaGCzYwDwSb0pWN-5">
+        <mxCell id="D12ZRFP_QPjPrEDqh1_J-1" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Lato; font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; color=&quot;#FF0000&quot;&gt;-&amp;nbsp;1 USD&lt;br&gt;(~MEP)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="_Wc2LpaGCzYwDwSb0pWN-5" vertex="1" connectable="0">
           <mxGeometry x="0.0214" y="-4" relative="1" as="geometry">
             <mxPoint x="-16" y="-36" as="offset" />
           </mxGeometry>
