@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-24T15:04:23.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="XO93sm6bJ1IJJqvJnfxw" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-27T14:55:26.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="I-21BtX93Bxtt4kM6-hU" version="22.0.3" type="device">
   <diagram id="930yrrSZ7CRRkxsYf17R" name="Main">
-    <mxGraphModel dx="6227" dy="2913" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9340" dy="4370" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="oXg08h0DtL2RBj69b0VJ-4" value="Ayudas" style="" parent="0" visible="0" />
@@ -1170,7 +1170,7 @@
             <mxRectangle width="134" height="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yYjpiLT5c6p-TpH4u5nf-3" value="Los montos finales acreditados dependeran de la cotizacion de la cripto a comprar.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;- Las transferencias de fondeo ACH en USD estan suspendidas, solo estan permitidas en algunas otras monedas (GBP, EUR, etc)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;- Las compras con tarjetas Mastercard (ej: Payoneer) estan suspendidas, solo puede operarse con Google Pay (o Wallet) o por una empresa externa, Paymonade&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;labelBackgroundColor=none;strokeWidth=5;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=default;align=left;verticalAlign=top;spacingLeft=12;rounded=0;" parent="yYjpiLT5c6p-TpH4u5nf-1" vertex="1">
+        <mxCell id="yYjpiLT5c6p-TpH4u5nf-3" value="Los montos finales acreditados dependeran de la cotizacion de la cripto a comprar.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;- Las transferencias de fondeo ACH en USD estan suspendidas, solo estan permitidas en algunas otras monedas (GBP, EUR, etc)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;** Las compras con tarjetas Mastercard (ej: Payoneer) estan suspendidas, solo puede operarse con Google Pay (o Wallet) o por una empresa externa, Paymonade&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;labelBackgroundColor=none;strokeWidth=5;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=default;align=left;verticalAlign=top;spacingLeft=12;rounded=0;" parent="yYjpiLT5c6p-TpH4u5nf-1" vertex="1">
           <mxGeometry x="930" width="1740" height="147" as="geometry">
             <mxRectangle width="1740" height="147" as="alternateBounds" />
           </mxGeometry>
@@ -2125,7 +2125,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DP36B7pTT4mfl-avJUqm-5" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=2;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=#000000;endArrow=block;endFill=1;startSize=10;endSize=10;elbow=vertical;" edge="1" parent="1" source="fItOZy9dYrFqX1Izl5-k-3" target="Lwz5aIRVfoYT8NAf6FZ6-3">
+        <mxCell id="DP36B7pTT4mfl-avJUqm-5" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=2;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=#000000;endArrow=block;endFill=1;startSize=10;endSize=10;elbow=vertical;" parent="1" source="fItOZy9dYrFqX1Izl5-k-3" target="Lwz5aIRVfoYT8NAf6FZ6-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1078" y="1299" as="sourcePoint" />
             <mxPoint x="1151" y="1996" as="targetPoint" />
@@ -2134,7 +2134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DP36B7pTT4mfl-avJUqm-7" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-family: Lato; font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; color=&quot;#FF0000&quot;&gt;- 4%&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DP36B7pTT4mfl-avJUqm-5">
+        <mxCell id="DP36B7pTT4mfl-avJUqm-7" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-family: Lato; font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; color=&quot;#FF0000&quot;&gt;- 2% **&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DP36B7pTT4mfl-avJUqm-5" vertex="1" connectable="0">
           <mxGeometry x="0.7013" y="-5" relative="1" as="geometry">
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
