@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-01-24T17:11:32.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="I21yhjmoO605cLnL3Bgv" version="22.1.21" type="device">
+<mxfile host="Electron" modified="2024-01-25T19:34:25.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="3KtjSufRgCMBV7nyYhgf" version="22.1.21" type="device">
   <diagram id="930yrrSZ7CRRkxsYf17R" name="Main">
     <mxGraphModel dx="3117" dy="1460" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZ65Zu6aVp_-EjFAdfEo-1" value="Flujos de conversion/almacenamiento de monedas&amp;nbsp; &amp;nbsp; (a ENE-17-2024)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;fontFamily=Lato;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="wZ65Zu6aVp_-EjFAdfEo-1" value="Flujos de conversion/almacenamiento de monedas&amp;nbsp; &amp;nbsp; (a ENE-25-2024)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;fontFamily=Lato;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="490" y="104" width="1444" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wZ65Zu6aVp_-EjFAdfEo-2" value="Notas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#CCCCCC;fontSize=24;labelBackgroundColor=none;strokeWidth=1;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=default;fillColor=default;align=center;verticalAlign=middle;spacingLeft=1;rounded=0;" parent="1" vertex="1">
@@ -2097,9 +2097,9 @@
             <mxPoint x="7" y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPo9tFsChgsE7VLG-vNH-11" value="0 fee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Lato;fontColor=#66CC00;rotation=90;fontStyle=1" parent="IPo9tFsChgsE7VLG-vNH-8" vertex="1" connectable="0">
+        <mxCell id="IPo9tFsChgsE7VLG-vNH-11" value="-5USD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Lato;fontColor=#FF0000;rotation=90;fontStyle=1;labelBackgroundColor=default;" parent="IPo9tFsChgsE7VLG-vNH-8" vertex="1" connectable="0">
           <mxGeometry x="0.8014" y="-9" relative="1" as="geometry">
-            <mxPoint x="5" y="-15" as="offset" />
+            <mxPoint x="2" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="my9Ij157N6Iqnh-77P2F-1" style="orthogonalLoop=1;jettySize=auto;html=1;entryX=0.853;entryY=0.024;entryDx=0;entryDy=0;endArrow=block;fontSize=20;fontFamily=Lato;fontColor=#FF0000;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;endFill=1;startSize=10;endSize=10;curved=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="-gCrw3F_n-45M_GKq6-B-2" target="3YPF4npdfO4zTSsUGcOa-4" edge="1">
