@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-31T19:54:12.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="0ZUXROP9JOsMTZW_P2VF" version="24.4.8" type="device">
+<mxfile host="Electron" modified="2024-06-04T17:51:31.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="bjrwY6m2707Yzfvp5OOI" version="24.4.8" type="device">
   <diagram id="930yrrSZ7CRRkxsYf17R" name="Main">
     <mxGraphModel dx="4140" dy="1352" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1213,7 +1213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1" style="locked=1;" parent="0" />
-        <mxCell id="wZ65Zu6aVp_-EjFAdfEo-1" value="Flujos de conversion/almacenamiento de monedas&amp;nbsp; &amp;nbsp; (a MAY-17-2024)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;fontFamily=Lato;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="wZ65Zu6aVp_-EjFAdfEo-1" value="Flujos de conversion/almacenamiento de monedas&amp;nbsp; &amp;nbsp; (a JUN-06-2024)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;fontFamily=Lato;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-235" y="516" width="1444" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wZ65Zu6aVp_-EjFAdfEo-2" value="Notas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#CCCCCC;fontSize=24;labelBackgroundColor=none;strokeWidth=1;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=default;fillColor=default;align=center;verticalAlign=middle;spacingLeft=1;rounded=0;" parent="1" vertex="1">
@@ -2102,7 +2102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-285" value="Transf&lt;div&gt;&lt;b&gt;ACH&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=#82b366;strokeWidth=1;align=center;verticalAlign=bottom;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=40;labelBackgroundColor=none;fillColor=#d5e8d4;horizontal=1;spacingBottom=0;spacingRight=0;spacingLeft=0;spacingTop=0;opacity=50;labelPosition=center;verticalLabelPosition=top;html=1;" parent="m9gC1O1QRZ6V6D6JOcTr-1" vertex="1">
-          <mxGeometry x="1373" y="1512" width="50" height="6705" as="geometry" />
+          <mxGeometry x="1373" y="1511" width="50" height="6705" as="geometry" />
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-287" value="Transf &lt;b&gt;SEPA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=#BD7000;strokeWidth=1;align=center;verticalAlign=bottom;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=40;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;horizontal=1;spacingBottom=0;spacingRight=0;spacingLeft=0;spacingTop=0;opacity=50;labelPosition=center;verticalLabelPosition=top;html=1;" parent="m9gC1O1QRZ6V6D6JOcTr-1" vertex="1">
           <mxGeometry x="1674" y="1512" width="50" height="6705" as="geometry" />
@@ -2152,7 +2152,7 @@
             <mxPoint x="-324" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="00Eq0XVKHMAJq0pKZSY--1" value="a ERC&lt;div style=&quot;font-size: 20px;&quot;&gt;TRON&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;MATIC&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;" vertex="1" connectable="0" parent="m9gC1O1QRZ6V6D6JOcTr-302">
+        <mxCell id="00Eq0XVKHMAJq0pKZSY--1" value="a ERC&lt;div style=&quot;font-size: 20px;&quot;&gt;TRON&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;MATIC&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;" parent="m9gC1O1QRZ6V6D6JOcTr-302" vertex="1" connectable="0">
           <mxGeometry x="0.8595" y="5" relative="1" as="geometry">
             <mxPoint x="18" y="-42" as="offset" />
           </mxGeometry>
@@ -2218,6 +2218,22 @@
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-331" value="&lt;b&gt;Paypal&lt;/b&gt;" style="swimlane;horizontal=1;whiteSpace=wrap;html=1;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;fontStyle=0;startSize=35;fillColor=none;strokeColor=#0000FF;strokeWidth=4;collapsible=0;direction=east;rotatable=0;" parent="m9gC1O1QRZ6V6D6JOcTr-1" vertex="1">
           <mxGeometry x="363" y="3015" width="491" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="JuK7Cy4jA7qPYnlkIZ2b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;" edge="1" parent="m9gC1O1QRZ6V6D6JOcTr-331" source="m9gC1O1QRZ6V6D6JOcTr-342">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1008.75" y="101.25" as="targetPoint" />
+            <mxPoint x="309.50000000000045" y="101.24999999999955" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuK7Cy4jA7qPYnlkIZ2b-7" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;-3.5%&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="JuK7Cy4jA7qPYnlkIZ2b-6">
+          <mxGeometry x="-0.155" relative="1" as="geometry">
+            <mxPoint x="-24" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuK7Cy4jA7qPYnlkIZ2b-8" value="A Wise, Wallbit y otras&lt;div&gt;que soporten ACH&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="JuK7Cy4jA7qPYnlkIZ2b-6">
+          <mxGeometry x="0.0652" y="2" relative="1" as="geometry">
+            <mxPoint x="56" y="-28" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-342" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Cuenta&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Personal&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Virtual&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;USD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Lato;fontSize=18;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="m9gC1O1QRZ6V6D6JOcTr-331" vertex="1">
           <mxGeometry x="187.5" y="76" width="116" height="101" as="geometry" />
@@ -2303,18 +2319,6 @@
             <mxPoint x="30" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9gC1O1QRZ6V6D6JOcTr-359" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;curved=1;" parent="m9gC1O1QRZ6V6D6JOcTr-1" source="m9gC1O1QRZ6V6D6JOcTr-342" target="m9gC1O1QRZ6V6D6JOcTr-341" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="2970" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m9gC1O1QRZ6V6D6JOcTr-360" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;-3.5%&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="m9gC1O1QRZ6V6D6JOcTr-359" vertex="1" connectable="0">
-          <mxGeometry x="0.2641" y="1" relative="1" as="geometry">
-            <mxPoint x="15" y="26" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-361" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.042;entryY=0.198;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" parent="m9gC1O1QRZ6V6D6JOcTr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="673.5" y="2829.749999999999" as="sourcePoint" />
@@ -2347,7 +2351,7 @@
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-370" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Cuenta&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;(BTC, USDT, USDC, +++)&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Lato;verticalAlign=middle;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;" parent="m9gC1O1QRZ6V6D6JOcTr-365" vertex="1">
           <mxGeometry x="192.5" y="70" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="m9gC1O1QRZ6V6D6JOcTr-368" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;exitX=0.013;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" parent="m9gC1O1QRZ6V6D6JOcTr-1" source="m9gC1O1QRZ6V6D6JOcTr-285" target="m9gC1O1QRZ6V6D6JOcTr-343" edge="1">
+        <mxCell id="m9gC1O1QRZ6V6D6JOcTr-368" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;exitX=0.022;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" parent="m9gC1O1QRZ6V6D6JOcTr-1" source="m9gC1O1QRZ6V6D6JOcTr-285" target="m9gC1O1QRZ6V6D6JOcTr-343" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1371" y="3444" as="sourcePoint" />
             <mxPoint x="669" y="3438.7299999999996" as="targetPoint" />
@@ -2390,7 +2394,7 @@
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-379" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font color=&quot;#FF0000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot; style=&quot;border-color: var(--border-color);&quot;&gt;-3%&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=#000000;labelBackgroundColor=default;rounded=0;shadow=0;strokeColor=#FF8000;strokeWidth=3;fillColor=#fa6800;" parent="m9gC1O1QRZ6V6D6JOcTr-378" vertex="1" connectable="0">
           <mxGeometry x="-0.6797" relative="1" as="geometry">
-            <mxPoint x="-151" y="-18" as="offset" />
+            <mxPoint x="-150" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-380" value="&lt;div&gt;BEP20&lt;/div&gt;" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=none;horizontal=0;align=right;fontStyle=1" parent="m9gC1O1QRZ6V6D6JOcTr-1" vertex="1">
@@ -2447,7 +2451,7 @@
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-413" value="" style="group;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;" parent="m9gC1O1QRZ6V6D6JOcTr-1" vertex="1" connectable="0">
           <mxGeometry x="3374" y="1421" width="1142" height="6796" as="geometry" />
         </mxCell>
-        <mxCell id="m9gC1O1QRZ6V6D6JOcTr-409" value="&amp;nbsp;ZOOLOGICO&lt;div&gt;A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;P&lt;/div&gt;" style="rounded=0;shadow=0;strokeColor=#36393d;strokeWidth=1;align=center;verticalAlign=bottom;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=40;labelBackgroundColor=none;fillColor=#cce5ff;horizontal=1;spacingBottom=0;spacingRight=0;spacingLeft=0;spacingTop=0;opacity=20;labelPosition=center;verticalLabelPosition=top;whiteSpace=wrap;html=1;" parent="m9gC1O1QRZ6V6D6JOcTr-413" vertex="1">
+        <mxCell id="m9gC1O1QRZ6V6D6JOcTr-409" value="&amp;nbsp;ZOOLOGICO&lt;div&gt;A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;P&lt;/div&gt;" style="rounded=0;shadow=0;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=bottom;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=40;labelBackgroundColor=none;fillColor=#dae8fc;horizontal=1;spacingBottom=0;spacingRight=0;spacingLeft=0;spacingTop=0;opacity=30;labelPosition=center;verticalLabelPosition=top;whiteSpace=wrap;html=1;" parent="m9gC1O1QRZ6V6D6JOcTr-413" vertex="1">
           <mxGeometry y="91" width="1142" height="6705" as="geometry" />
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-412" value="" style="group;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;" parent="m9gC1O1QRZ6V6D6JOcTr-413" vertex="1" connectable="0">
@@ -2726,6 +2730,16 @@
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-511" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.013;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;" parent="m9gC1O1QRZ6V6D6JOcTr-1" source="m9gC1O1QRZ6V6D6JOcTr-343" target="m9gC1O1QRZ6V6D6JOcTr-285" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuK7Cy4jA7qPYnlkIZ2b-2" value="&lt;b style=&quot;font-family: Lato; border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#FF0000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lato&quot;&gt;- 5 USD&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m9gC1O1QRZ6V6D6JOcTr-511">
+          <mxGeometry x="-0.3211" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JuK7Cy4jA7qPYnlkIZ2b-3" value="&lt;span style=&quot;font-family: Lato; font-size: 20px;&quot;&gt;Personales y de&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: Lato; font-size: 20px;&quot;&gt;TERCEROS&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m9gC1O1QRZ6V6D6JOcTr-511">
+          <mxGeometry x="0.1963" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-19" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m9gC1O1QRZ6V6D6JOcTr-519" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;startSize=17;endArrow=block;endFill=1;endSize=17;" parent="m9gC1O1QRZ6V6D6JOcTr-1" target="m9gC1O1QRZ6V6D6JOcTr-422" edge="1">
           <mxGeometry relative="1" as="geometry">
